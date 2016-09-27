@@ -93,4 +93,10 @@
         android:title="Prueba"
         android:checkable="false" />
 
+    <item
+        android:id="@+id/nav_prueba2"
+        android:icon="@drawable/ic_menu_info"
+        android:title="Prueba2"
+        android:checkable="false" />
+
 </menu>
