@@ -87,4 +87,10 @@
         android:title="Información útil"
         android:checkable="false" />
 
+    <item
+        android:id="@+id/nav_prueba"
+        android:icon="@drawable/ic_menu_info"
+        android:title="Prueba"
+        android:checkable="false" />
+
 </menu>
